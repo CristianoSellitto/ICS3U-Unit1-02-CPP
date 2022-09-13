@@ -1,4 +1,4 @@
-/* Cristiano 2022 */
+/* Copyright Cristiano 2022 */
 
 #include <iostream>
 
